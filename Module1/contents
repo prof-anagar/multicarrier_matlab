@@ -1,0 +1,4 @@
+1.	OFDM basics and implementation, frame structure, guards and cyclic prefix. Channel effects and their estimation and compensation for OFDM.
+a.	A_OFDM_Basics_Implementation.mlx
+b.	B_LTE_5G_Particularization.mlx
+c.	C_ChannelEffects_Etimation.mlx
