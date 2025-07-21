@@ -1,5 +1,5 @@
 This repository contains matlab notebooks developed to illustrate fundamental concepts of multicarrier modulation.
-Module 6: Implementation of OFDM in SDR.
+Module 6: New multicarrier waveforms towards 6G mobile communications.
 A_6G_Intro_CE_OFDM
 B_FM_OFDM
 C_OTFS
